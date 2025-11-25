@@ -1,1 +1,1 @@
-# Analysis-on-sales-and-profit-
+This project analyzes the Sales and Profit dataset to uncover business performance patterns, identify high-profit product categories, evaluate regional performance, and reveal key drivers influencing profitability. Using Python for data cleaning, transformation, and visualization, this project builds a clear analytical narrative useful for business decision-making.
